@@ -26,17 +26,6 @@ public class CAT {
   }
   public void speak(){
       System.out.println("hi, my name " + name + " " );
-  }
-  public void move(){
-      System.out.println(name + " is on the move");
-
-  }
-  public void sleep(){
-      System.out.println(name + "Nap taking");
-
-  }
-  public void eat(){
-      System.out.println(name + "eating");
   
   }
 }
