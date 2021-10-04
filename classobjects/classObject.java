@@ -14,5 +14,8 @@ package classobjects;
     
     
     System.out.println(cat.getWeight());
+
+    Mobile iphone = new Mobile("Apple", "13", "Qualcom");
+    System.out.println(iphone.getBrand());
   }
 }
